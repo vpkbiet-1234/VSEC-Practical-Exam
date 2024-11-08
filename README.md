@@ -11,6 +11,10 @@
 
 added the basic html file
 
+
+*updated the basic html file as Sample webpage*
+
+=======
 <html>
   <head>
     <title>
@@ -23,5 +27,6 @@ added the basic html file
  <h1>
     hello python
     </h1>
+
 
 
