@@ -17,7 +17,7 @@ simple html code
   </head>
   <body>
     <h1>
-      hello python
-    </h1>h1>
+    hello python
+    </h1>
   </body>
 </html>
